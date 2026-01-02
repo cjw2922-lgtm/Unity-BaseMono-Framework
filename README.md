@@ -4,3 +4,6 @@
 ## 특징
 - 리플렉션을 활용한 자동 변수 정리
 - DOTween 자동 Kill 기능
+
+## 자세한 설명
+[https://cjw98.tistory.com/1]
